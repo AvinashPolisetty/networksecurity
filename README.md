@@ -1,1 +1,1 @@
-# networksecurity
+# Network Security project for phishing data
