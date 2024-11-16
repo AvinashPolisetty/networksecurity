@@ -1,3 +1,8 @@
 python-dotenv
 numpy
 pandas
+pymongo
+flask
+pymongo[srv]==3.6
+
+-e .
