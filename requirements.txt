@@ -4,5 +4,6 @@ pandas
 flask
 pymongo[srv]==3.6
 certifi
+scikit-learn
 
 #-e .
